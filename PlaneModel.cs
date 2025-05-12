@@ -34,7 +34,7 @@ namespace ProjectAurora
             }
 
             statusUpdateTimer = new Timer();
-            statusUpdateTimer.Interval = 500; // кожні 500 мс
+            statusUpdateTimer.Interval = 500;
             statusUpdateTimer.Tick += StatusUpdateTimer_Tick;
             statusUpdateTimer.Start();
 
@@ -169,11 +169,9 @@ namespace ProjectAurora
 
         private void pictureBox1_Resize(object sender, EventArgs e)
         {
-            // Отримуємо новий розмір PictureBox
             int newWidth = pictureBox1.Width;
             int newHeight = pictureBox1.Height;
 
-            // Пропорції відносно початкових розмірів 
             float firstClassX = 0.28f; 
             float firstClassY = 0.032f; 
             float firstClassWidth = 0.44f;  
@@ -191,7 +189,6 @@ namespace ProjectAurora
             float btnHeight = 0.07f;
             buttonBack.SetBounds((int)(newWidth * btnBackX), (int)(newHeight * btnBackY), (int)(newWidth * btnWidth), (int)(newHeight * btnHeight));
 
-            // Змінюємо розташування та розміри TableLayoutPanel відповідно до нового розміру PictureBox
             tlpFirstClass.SetBounds(
                 (int)(newWidth * firstClassX),
                 (int)(newHeight * firstClassY),
