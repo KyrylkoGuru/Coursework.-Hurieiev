@@ -1,0 +1,11 @@
+D:\VisualStudio\Codes\CSharp\ProjectAurora\bin\Debug\ProjectAurora.exe.config
+D:\VisualStudio\Codes\CSharp\ProjectAurora\bin\Debug\ProjectAurora.exe
+D:\VisualStudio\Codes\CSharp\ProjectAurora\bin\Debug\ProjectAurora.pdb
+D:\VisualStudio\Codes\CSharp\ProjectAurora\obj\Debug\ProjectAurora.csproj.AssemblyReference.cache
+D:\VisualStudio\Codes\CSharp\ProjectAurora\obj\Debug\ProjectAurora.MainHall.resources
+D:\VisualStudio\Codes\CSharp\ProjectAurora\obj\Debug\ProjectAurora.PlaneModel.resources
+D:\VisualStudio\Codes\CSharp\ProjectAurora\obj\Debug\ProjectAurora.Properties.Resources.resources
+D:\VisualStudio\Codes\CSharp\ProjectAurora\obj\Debug\ProjectAurora.csproj.GenerateResource.cache
+D:\VisualStudio\Codes\CSharp\ProjectAurora\obj\Debug\ProjectAurora.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Codes\CSharp\ProjectAurora\obj\Debug\ProjectAurora.exe
+D:\VisualStudio\Codes\CSharp\ProjectAurora\obj\Debug\ProjectAurora.pdb
